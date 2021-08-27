@@ -10,7 +10,7 @@ def assignment00():
 	username = 'vdhavaleswarapu',
 	level = 'Masters',
 	major = 'Computer Science',
-	programming_exp = 'some',
+	programming_exp = 'extensive',
 	python_exp = 'some',
 	git_exp = 'none',
 	ml_exp = 'some',
